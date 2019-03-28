@@ -1,7 +1,6 @@
 # LeetCode
 One LeetCode problem per day! 
 
-Let's get those offers
 
 ## Format of each Entry
 \<Problem Number> \<Problem Title> - \<Problem Difficulty>
@@ -44,7 +43,7 @@ class Solution {
 
 ## Schedule
 - [x] **03/27/2019**: [Palindrome Number](https://leetcode.com/problems/palindrome-number/) - Easy
-- [ ] **03/28/2019**: [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) - Easy
+- [x] **03/28/2019**: [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) - Easy
 - [ ] **03/29/2019**: [To Lower Case](https://leetcode.com/problems/to-lower-case/) - Easy
 - [ ] **03/30/2019**: [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) - Easy
 - [ ] **03/31/2019**: [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) - Easy
