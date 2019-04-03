@@ -1,7 +1,8 @@
 // 961. N-Repeated Element in Size 2N Array - Easy
 
 // Initial thoughts: 
-// Use a Hashmap to store the appeared keys and the number of appearances. Return when number of appearances is equal to n.
+// Use a Hashmap to store the appeared keys and the number of appearances. 
+// Return when number of appearances is equal to n.
 
 // Implementation:
 
