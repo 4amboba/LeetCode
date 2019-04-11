@@ -52,19 +52,19 @@ class Solution {
 - [x] **04/03/2019**: [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) - Easy
 - [x] **04/04/2019**: [Sort Array by Parity](https://leetcode.com/problems/sort-array-by-parity/) - Easy
 - [x] **04/05/2019**: [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) - Easy
-- [ ] **04/06/2019**: [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) - Easy
-- [ ] **04/07/2019**: [Hamming Distance](https://leetcode.com/problems/hamming-distance) - Easy
-- [ ] **04/08/2019**: [DI String Match](https://leetcode.com/problems/di-string-match) - Easy
-- [ ] **04/09/2019**: [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) - Easy
-- [ ] **04/10/2019**: [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) - Easy
-- [ ] **04/11/2019**: [Self-Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) - Easy
-- [ ] **04/12/2019**: [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) - Easy
-- [ ] **04/13/2019**: [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) - Easy
-- [ ] **04/14/2019**: [Array Partition I](https://leetcode.com/problems/array-partition-i) - Easy
-- [ ] **04/15/2019**: [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) - Easy
-- [ ] **04/16/2019**: [Find Common Characters](https://leetcode.com/problems/find-common-characters) - Easy
-- [ ] **04/17/2019**: [Swap Salary](https://leetcode.com/problems/swap-salary) - Easy
-- [ ] **04/18/2019**: [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - Easy
+- [x] **04/06/2019**: [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) - Easy
+- [x] **04/07/2019**: [Hamming Distance](https://leetcode.com/problems/hamming-distance) - Easy
+- [x] **04/08/2019**: [DI String Match](https://leetcode.com/problems/di-string-match) - Easy
+- [x] **04/09/2019**: [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees) - Easy
+- [x] **04/10/2019**: [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) - Easy
+- [x] **04/11/2019**: [Self-Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) - Easy
+- [x] **04/12/2019**: [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array) - Easy
+- [x] **04/13/2019**: [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls) - Easy
+- [x] **04/14/2019**: [Array Partition I](https://leetcode.com/problems/array-partition-i) - Easy
+- [x] **04/15/2019**: [Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook) - Easy
+- [x] **04/16/2019**: [Find Common Characters](https://leetcode.com/problems/find-common-characters) - Easy
+- [x] **04/17/2019**: [Swap Salary](https://leetcode.com/problems/swap-salary) - Easy
+- [x] **04/18/2019**: [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - Easy
 - [ ] **04/19/2019**: [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - Easy
 - [ ] **04/20/2019**: [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) - Easy
 - [ ] **04/21/2019**: [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - Medium
